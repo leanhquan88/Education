@@ -69,14 +69,14 @@ body {
   content: "";
   display: block;
   width: 0;
-  height: 1px;
+  height: 3px;
   background: #ff4f81;
 }
 .header__bot .navbar-nav .nav-item.active::after {
   content: "";
   display: block;
   width: 100%;
-  height: 1px;
+  height: 3px;
   background: #ff4f81;
 }
 .header__bot .navbar-nav li:hover:after {
